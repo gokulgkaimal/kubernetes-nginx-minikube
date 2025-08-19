@@ -94,13 +94,3 @@ or via forwarded port:
 minikube service my-nginx
 # -> http://127.0.0.1:63638 (auto port forwarding)
 
-SCREENSHOTS
-
-#Cluster Status
-![Cluster Status](screenshots/cluster-status.png)
-
-# Pods Running
-![Pods Running](screenshots/kubectl-get-pods.png)
-
-# NGINX in Browser
-![NGINX in Browser](screenshots/nginx-in-browser.png)
