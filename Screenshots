@@ -1,10 +1,1 @@
-SCREENSHOTS
 
-#Cluster Status
-![Cluster Status](screenshots/cluster-status.png)
-
-# Pods Running
-![Pods Running](screenshots/kubectl-get-pods.png)
-
-# NGINX in Browser
-![NGINX in Browser](screenshots/nginx-in-browser.png)
