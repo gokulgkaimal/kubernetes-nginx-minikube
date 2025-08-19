@@ -33,14 +33,3 @@ spec:
       targetPort: 80
       nodePort: 30080
 
-Result
-
-App successfully deployed and accessed at:
-
-http://127.0.0.1:30080
-
-
-or via forwarded port:
-
-minikube service my-nginx
-# -> http://127.0.0.1:63638 (auto port forwarding)
